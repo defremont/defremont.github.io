@@ -27,12 +27,9 @@ description: Consultor de Projetos Web
 navbar-links:
   Sobre: aboutme
   Exemplos de Projetos:
-  - Site Pessoal 1: https://defremont.github.io/portfolio/
-  - Site Pessoal 2: https://defremont.github.io/portfolio2/
-  - Blog Pessoal: https://defremont.github.io/blog
-  - Site Institucional 1: https://defremont.github.io/exemplo/
-  - Site Institucional 2: https://castledevup.github.io/siteimagem/
-  - Castle Dev: https://castledevup.github.io
+  - Loja Virtual: https://defremont.github.io/artenbijou/
+  - Site Institucional: https://castledevup.github.io/siteimagem/
+  - Castle Dev: https://castledevup.github.io/
 avatar: "/img/avatar-icon.png"
 author:
   name: André Defrémont
