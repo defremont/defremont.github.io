@@ -21,7 +21,7 @@ defaults:
   values:
     layout: page
     show-avatar: true
-url: http://defremont.github.io
+url: https://defremont.github.io
 baseurl: 
 description: Consultor de Projetos Web
 navbar-links:
@@ -30,6 +30,7 @@ navbar-links:
   - Loja Virtual: https://defremont.github.io/artenbijou/
   - Site Institucional: https://castledevup.github.io/siteimagem/
   - Castle Dev: https://castledevup.github.io/
+google_site_verification: googlec51afa1e1c8552aa
 avatar: "/img/avatar-icon.png"
 author:
   name: André Defrémont
