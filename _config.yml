@@ -138,3 +138,4 @@ prose:
 gems:
 - jekyll-paginate
 - jekyll-admin
+- jekyll-sitemap
