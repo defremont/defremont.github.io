@@ -139,3 +139,4 @@ gems:
 - jekyll-paginate
 - jekyll-admin
 - jekyll-sitemap
+- jekyll-seo-tag
