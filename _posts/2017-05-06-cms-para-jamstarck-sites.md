@@ -1,7 +1,6 @@
 ---
 layout: post
 show-avatar: ''
-comments: ''
 social-share: true
 title: CMS para JAMStack Sites
 date: 2017-05-06 09:33
