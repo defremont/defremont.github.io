@@ -9,7 +9,7 @@ date: 2017-05-06 09:33
 
 ## Projetos ricos em conteúdo construídos com JAMstack precisam de um CMS para que o conteúdo seja fácil de manter
 
-[![Demo of colour picker addin](https://raw.githubusercontent.com/daattali/colourpicker/master/inst/img/plothelper-demo.png)](https://raw.githubusercontent.com/daattali/colourpicker/master/inst/img/plothelper-demo.png)
+[![JAMStack Web Sites](https://cdn-images-1.medium.com/max/800/0*0abMjQhF1LIJRGFs.png)](https://cdn-images-1.medium.com/max/800/0*0abMjQhF1LIJRGFs.png)
 
 Mathias Biilmann introduziu recentemente o conceito de JAMstack: uma abordagem diferente e sem servidor para a construção de sites modernos e rápidos. JAM simplesmente representa JavaScript, APIs e marcação, ea idéia central é soltar os servidores completamente, hospedar o código em CDNs rápidos, confiáveis ​​e seguros e fazer navegadores interagir com as APIs que podem cuidar do componente "dinâmico". Por exemplo, não faz sentido colocar a lógica de faturamento complexa em seu backend quando você pode apenas usar a API da Stripe - o navegador é inteligente e poderoso o suficiente para fazer essas chamadas de API. Se você estiver disposto a aprender mais sobre o JAMstack, sugerimos que leia sua página inicial e veja esses slides. Enquanto isso, vamos dar uma olhada como lidar com o conteúdo em uma configuração JAMstack.
 # Porque um CMS é necessário
