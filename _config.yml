@@ -1,5 +1,5 @@
 ---
-title: André Defrémont
+title: Andre Defremont
 timezone: America/Sao_Paulo
 collections:
   posts:
@@ -23,17 +23,16 @@ defaults:
     show-avatar: true
 url: https://defremont.github.io
 baseurl: 
-description: Consultor de Projetos Web e Marketing Digital
+description: Andre Defremont, nascido dia 15 de março de 1993 em Belém do Pará, formado em Sistemas de Informação pela Universidade Federal do Pará (UFPA) com habilidade que promovem a experiência de usuário (UX) dos seus projetos, bem como o Marketing Digital. Sócio da Agência Digital Castle Dev.
 navbar-links:
   Sobre: aboutme
   Exemplos de Projetos:
   - Loja Virtual: https://defremont.github.io/artenbijou/
-  - Site Institucional: https://castledevup.github.io/siteimagem/
   - Castle Dev: https://castledevup.github.io/
 google_site_verification: googlec51afa1e1c8552aa
 avatar: "/img/avatar-icon.png"
 author:
-  name: André Defrémont
+  name: Andre Defremont
   email: andre.def93@gmail.com
   facebook: andre.defremont
   github: Defremont
