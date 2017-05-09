@@ -23,7 +23,7 @@ defaults:
     show-avatar: true
 url: https://defremont.github.io
 baseurl: 
-description: Consultor de Projetos Web
+description: Consultor de Projetos Web e Marketing Digital
 navbar-links:
   Sobre: aboutme
   Exemplos de Projetos:
