@@ -7,7 +7,10 @@ collections:
     output: true
   uploads:
     title: Uploads
-    output: true
+    output: true    
+disqus: "defremont"
+google_analytics: "UA-26063629-2"
+
 defaults:
 - scope:
     path: ''
@@ -46,9 +49,8 @@ author:
   instagram: defremont
   youtube: yourlink
   spotify: yourname
-  telephone: "+55 091 981348438"
-  disqus: "defremont"
-  google_analytics: "UA-26063629-2"
+  telephone: "+55 091 981348438"  
+ 
 
 footer-links-active:
   rss: false
