@@ -4,6 +4,9 @@ show-avatar: ''
 social-share: true
 title: CMS para JAMStack Sites
 date: 2017-05-06 09:33
+tags: [contentful, jekyll, jamstack, cms, github]
+share-img: "https://cdn-images-1.medium.com/max/800/0*0abMjQhF1LIJRGFs.png"
+permalink: blog/jamstack/
 ---
 # Um CMS pronto para JAMstack 
 ### Projetos ricos em conteúdo construídos com JAMstack precisam de um CMS para que o conteúdo seja fácil de manter
@@ -18,4 +21,4 @@ Mathias Biilmann introduziu recentemente o conceito de JAMstack: uma abordagem d
 # Conteúdo como um serviço (com uma API incluída) 
  Uma abordagem alternativa seria usar um CMS que forneça o conteúdo através de uma API. Os editores criar e editar o conteúdo de uma forma muito familiar, enquanto que como um desenvolvedor que você faria simplesmente uma API chamada cada vez que você precisa inserir conteúdo em suas páginas. Esta é uma win-win para todos, e esta abordagem permite construir totalmente web experiências personalizadas a partir do zero, não sendo limitado pelo CMS, como você escolhe sua pilha você mesmo. 
 # Um JAMstack-ready CMS 
- Para citar o JAMstack autor, "o JAMstack usa linguagens de marcação como HTML, CSS e Markdown para formatar e estilo nosso conteúdo, cliente-lado Javascript para torná-lo interativo e atraente e APIs para adicionar persistência, Sincronização em tempo real, interações do mundo real, comentários, carrinhos de compras e assim por diante. " Esta filosofia funciona perfeitamente bem com o Contentful - uma plataforma de gerenciamento de conteúdo centrada na API e que oferece suporte a desenvolvedores. Ele vem com uma API para buscar o conteúdo e colocá-lo em seus sites e aplicativos. O conteúdo é, naturalmente, formatado em Markdown (olá, JAMstack), e há um aplicativo da web onde os editores criá-lo. Construímos uma infra-estrutura de entrega de conteúdo confiável por trás dele, e há muitos SDKs para todas as principais linguagens de programação, o que simplifica muito a construção de projetos com o Contentful. Dê uma olhada em nosso site para saber mais sobre o produto. E, como diz Mathias Biilmann: espalhe o JAM!
+ Para citar o JAMstack autor, "o JAMstack usa linguagens de marcação como HTML, CSS e Markdown para formatar e estilo nosso conteúdo, cliente-lado Javascript para torná-lo interativo e atraente e APIs para adicionar persistência, Sincronização em tempo real, interações do mundo real, comentários, carrinhos de compras e assim por diante. " Esta filosofia funciona perfeitamente bem com o Contentful - uma plataforma de gerenciamento de conteúdo centrada na API e que oferece suporte a desenvolvedores. Ele vem com uma API para buscar o conteúdo e colocá-lo em seus sites e aplicativos. O conteúdo é, naturalmente, formatado em Markdown, e há um aplicativo da web onde os editores criá-lo. Há muitos SDKs para todas as principais linguagens de programação, o que simplifica muito a construção de projetos com o Contentful. **Dê uma olhada em no site para saber mais sobre o [Contentful](https://www.contentful.com/)**. 
