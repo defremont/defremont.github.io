@@ -3,10 +3,14 @@ layout: post
 published: true
 title: Como gerar uma renda passiva emprestando seus Bitcoins na Poloniex
 date: 09/05/2017
+share-img: "/img/poloniex.png"
+bigimg:
+- "/img/poloniex.png": Poloniex
+permalink: /poloniex/
 ---
 > Uma das minhas formas mais confiáveis de investimento atual é emprestar Bitcoins a juros na [Poloniex](poloniex.com).
 
-![Poloniex]({{site.baseurl}}/img/poloniex.png)
+![Poloniex](/img/poloniex.png)
 
 ## O que significa empréstimo neste contexto?
 ### Há dois tipos de comércios que você pode fazer na Poloniex: você pode comprar baixo vender alto ou vender alto comprar baixo.

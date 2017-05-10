@@ -1,7 +1,6 @@
 ---
 title: Organização com Jekyll
 date: 2017-04-05 17:56:00 -03:00
-comments: true
 ---
 
 ### Em todo projeto Jekyll, temos Pastas que mantém a organização das funcionalidades do sistema. Explicarei aqui um pouco do funcionamento de cada Pasta.
