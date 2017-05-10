@@ -10,9 +10,8 @@ permalink: /poloniex/
 ---
 > Uma das minhas formas mais confiáveis de investimento atual é emprestar Bitcoins a juros na [Poloniex](poloniex.com).
 
-![Poloniex](/img/poloniex.png)
-
 ## O que significa empréstimo neste contexto?
+
 ### Há dois tipos de comércios que você pode fazer na Poloniex: você pode comprar baixo vender alto ou vender alto comprar baixo.
 
 Para exemplificar, imagine que você pede emprestado 50 **ETH (Ether)**, agora você é obrigado a pagar 50 ETH, mais alguns juros, para o credor em algum ponto no futuro. Venda esses ETH por **BTC (Bitcoins)**, vamos imaginar que você consiga **5** BTC por todos os ETH. Então o preço do ETH diminui e você compra de volta os 50 ETH que você vendeu anteriormente. Mas agora, por causa do preço mais baixo, só custará de você **4** Bitcoins, então devolva os 50 ETH (mais os juros) à pessoa que você o tomou emprestado. 
@@ -32,7 +31,7 @@ Ofertas e taxas hoje (10/05/17):
 
 Durante períodos de **alta volatilidade**, as taxas de juros podem saltar tão alto quanto **1%** ou mais por dia. Você pode esperar que isso aconteça **várias vezes por ano**. Normalmente em um pico de preço, shorters consomem todos os empréstimos disponíveis, elevando as taxas de juros. Mas você tem que ser rápido para tirar vantagem, já que as taxas mudam rápido nestas circunstâncias e não ficam por muito tempo.
 
-Esta é uma maneira muito mais segura de ganhar dinheiro do que trading, e ainda muito mais do que você ficar segurando seu dinheiro em um banco. Além disso, é menos trabalho do que analisar padrões gráficos e assistir a posições de negociação durante todo o dia como na bolsa.
+> Esta é uma maneira muito mais segura de ganhar dinheiro do que trading, e ainda muito mais do que você ficar segurando seu dinheiro em um banco. Além disso, é menos trabalho do que analisar padrões gráficos e assistir a posições de negociação durante todo o dia como na bolsa.
 
 **Nota: Eu não defendo a utilização de 100% dos seus fundos para empréstimos, é uma idéia terrível. O empréstimo é apenas um componente do que deve ser uma abordagem de investimento equilibrado e diversificadoa.**
 
