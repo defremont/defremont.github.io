@@ -3,9 +3,6 @@ layout: post
 published: true
 title: Como gerar uma renda passiva emprestando seus Bitcoins na Poloniex
 date: 09/05/2017
-subtitle: >-
-  Uma das minhas formas mais confiáveis de investimento atual é emprestar
-  Bitcoins a juros na Poloniex.
 ---
 > Uma das minhas formas mais confiáveis de investimento atual é emprestar Bitcoins a juros na [Poloniex](poloniex.com).
 
