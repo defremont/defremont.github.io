@@ -3,6 +3,10 @@
         color: #FFF;
     background: #0085a1;
     border: 1px solid #0085a1;
+       
+}
+.btn{
+     border-radius: 0;
 }
 /* --- General --- */
 
@@ -819,7 +823,7 @@ td.gutter {
 #mailchimp-subscribe-section-2 #mce-FNAME-2 {
   padding: 0 10px;
   border: 1px solid #ABB0B2;
-  border-radius: 3px;
+  border-radius: 0px;
   color: #343434;
   background-color: #fff;
   box-sizing: border-box;
@@ -828,9 +832,12 @@ td.gutter {
   margin: 0 0 5px;
   width: 100%;
 }
+.form-control{
+    border-radius: 0px;
+}
 #mailchimp-subscribe-section #mc-embedded-subscribe,
 #mailchimp-subscribe-section-2 #mc-embedded-subscribe-2 {
-  border-radius: 3px;
+  border-radius: 0px;
   font-weight: bold;
   border: 1px solid #ABB0B2;
   color: #0085a1;
