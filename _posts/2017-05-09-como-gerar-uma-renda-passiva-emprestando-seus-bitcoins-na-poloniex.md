@@ -1,12 +1,13 @@
 ---
 layout: post
-published: true
 title: Como gerar uma renda passiva emprestando seus Bitcoins na Poloniex
 date: 09/05/2017
+tags: [bitcoin, poloniex, lending, investimento, renda, passiva]
 share-img: /img/poloniex.png
 bigimg:
   - /img/poloniex.png: Poloniex
 permalink: /poloniex/
+published: true
 show-share: true
 show-subscribe: true
 ---

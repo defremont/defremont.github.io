@@ -1,11 +1,12 @@
 ---
 layout: post
-social-share: true
 title: CMS para JAMStack Sites
 date: 2017-05-06 09:33
 tags: [contentful, jekyll, jamstack, cms, github]
 share-img: "https://cdn-images-1.medium.com/max/800/0*0abMjQhF1LIJRGFs.png"
 permalink: /jamstack/
+show-share: true
+show-subscribe: true
 ---
 # Um CMS pronto para JAMstack 
 ### Projetos ricos em conteúdo construídos com JAMstack precisam de um CMS para que o conteúdo seja fácil de manter

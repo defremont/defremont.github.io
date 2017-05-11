@@ -1,8 +1,8 @@
 ---
+layout: post
 title: Um dos maiores desafios da UX de hoje
 date: 2017-03-21 00:00:00 -03:00
-layout: post
-comments: true
+published: true
 show-share: true
 show-subscribe: true
 ---
