@@ -7,6 +7,8 @@ share-img: /img/poloniex.png
 bigimg:
   - /img/poloniex.png: Poloniex
 permalink: /poloniex/
+show-share: true
+show-subscribe: true
 ---
 > Uma das minhas formas mais confiáveis de investimento atual é emprestar Bitcoins a juros na [Poloniex](poloniex.com).
 

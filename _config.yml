@@ -13,7 +13,7 @@ collections:
     output: true    
 disqus: "defremont"
 google_analytics: "UA-26063629-2"
-
+fb_app_id: "1153473038113359"
 defaults:
 - scope:
     path: ''
