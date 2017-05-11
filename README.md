@@ -1,7 +1,7 @@
 # defremont.github.io
 > *Copyright 2017 [André Defrémont](http://defremont.tk).
 
-Defremont website [https://defremont.github.io](https://defremont.github.io)
+Defremont website [http://defremont.tk](http://defremont.tk)
 
 O template utilizado neste website é Open-Source e disponibilizado em: [Beautiful Jekyll](http://deanattali.com/beautiful-jekyll/).
 
