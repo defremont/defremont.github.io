@@ -32,7 +32,8 @@ Durante períodos de **alta volatilidade**, as taxas de juros podem saltar tão 
 
 > Esta é uma maneira muito mais segura de ganhar dinheiro do que trading, e ainda muito mais do que você ficar segurando seu dinheiro em um banco. Além disso, é menos trabalho do que analisar padrões gráficos e assistir a posições de negociação durante todo o dia como na bolsa.
 
-**Nota: Eu não defendo a utilização de 100% dos seus fundos para empréstimos, é uma idéia terrível. O empréstimo é apenas um componente do que deve ser uma abordagem de investimento equilibrado e diversificadoa.**
+**Nota: Eu não defendo a utilização de 100% dos seus fundos para empréstimos, é uma idéia terrível. O empréstimo é apenas um componente do que deve ser uma abordagem de investimento equilibrado e diversificado.**
+
 Mais uma nota: Poloniex leva 15% em todos os seus lucros, em troca de oferecer este excelente serviço. Portanto, não se esqueça de levar isso em conta ao calcular os lucros esperados.
 
 ## Prós e contras
