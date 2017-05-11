@@ -30,7 +30,7 @@ defaults:
 navbar-links:
   Sobre/Contato: aboutme
   Exemplos de Projetos:
-  - Loja Virtual: https://defremont.tk/artenbijou/
+  - Loja Virtual: http://defremont.tk/artenbijou/
   - Castle Dev: https://castledevup.github.io/
 google_site_verification: googlec51afa1e1c8552aa
 avatar: "/img/avatar-icon.png"
