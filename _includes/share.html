@@ -1,6 +1,6 @@
 {% if page.show-share or page.show-subscribe %}
   <div class="share-section">
-    <h1 class="share-title">Gostou do que leu?</h1>
+    <h1 class="share-title">Gostou?</h1>
     
     {% if page.show-share %}
       <div class="share-buttons">
@@ -20,7 +20,7 @@
         {% endif %}
         {% capture urltwitter %}{{ urltwitter }}&text={{ page.title | truncate: maxlength }}{% endcapture %}
         
-        <a href="{{ urlmessage }}" data-ga-event=1 data-ga-category="share" data-ga-action="message" data-ga-label="{{ page.url }}">
+        <a target="_blank" href="{{ urlmessage }}" data-ga-event=1 data-ga-category="share" data-ga-action="message" data-ga-label="{{ page.url }}">
           Entrar em contato
         </a>
         <!--
@@ -28,7 +28,7 @@
           Compartilhar no Facebook
         </a>
         -->
-        <a href="https://pag.ae/bfkhQtM" data-ga-event=1 data-ga-category="share" data-ga-action="donate" data-ga-label="{{ page.url }}">
+        <a target="_blank" href="https://pag.ae/bfkhQtM" data-ga-event=1 data-ga-category="share" data-ga-action="donate" data-ga-label="{{ page.url }}">
           Doar
         </a>
          <!--<a href="{{ urltwitter }}" data-ga-event=1 data-ga-category="share" data-ga-action="twitter" data-ga-label="{{ page.url }}">

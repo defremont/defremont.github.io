@@ -1,5 +1,9 @@
 @import url("pygment_highlights.css");
-
+.btn:hover{
+        color: #FFF;
+    background: #0085a1;
+    border: 1px solid #0085a1;
+}
 /* --- General --- */
 
 body {
