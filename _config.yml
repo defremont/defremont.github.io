@@ -28,7 +28,7 @@ defaults:
     layout: page
     show-avatar: true
 navbar-links:
-  Sobre: aboutme
+  Sobre/Contato: aboutme
   Exemplos de Projetos:
   - Loja Virtual: https://defremont.tk/artenbijou/
   - Castle Dev: https://castledevup.github.io/
