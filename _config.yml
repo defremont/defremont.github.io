@@ -30,7 +30,7 @@ defaults:
 navbar-links:
   Sobre: aboutme
   Exemplos de Projetos:
-  - Loja Virtual: https://defremont.github.io/artenbijou/
+  - Loja Virtual: https://defremont.tk/artenbijou/
   - Castle Dev: https://castledevup.github.io/
 google_site_verification: googlec51afa1e1c8552aa
 avatar: "/img/avatar-icon.png"
@@ -73,7 +73,7 @@ share-links-active:
   facebook: true
   google: true
   linkedin: false
-url-pretty: defremont.github.io
+url-pretty: defremont.tk
 excerpt_length: 50
 title-separator: "-"
 markdown: kramdown
