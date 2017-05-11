@@ -1,5 +1,5 @@
 # defremont.github.io
-> *Copyright 2017 [André Defrémont](https://defremont.github.io).
+> *Copyright 2017 [André Defrémont](http://defremont.tk).
 
 Defremont website [https://defremont.github.io](https://defremont.github.io)
 
