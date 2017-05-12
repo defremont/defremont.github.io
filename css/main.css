@@ -771,6 +771,12 @@ td.gutter {
     margin-top: 0;
   }
 }
+#over img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 30px;
+}
 /* --- Email subscription --- */
 
 #mailchimp-subscribe-section,
