@@ -175,7 +175,9 @@ img {
     padding: 0;
   }
 }
-
+.typed{
+    color:#0085a1
+}
 .navbar-custom .avatar-container {
   opacity: 1;
   position: absolute;
