@@ -3,7 +3,7 @@ title: Defremont
 timezone: "America/Belem"
 url: http://defremont.tk
 baseurl: 
-description: "Andre Defremont, nascido dia 15 de março de 1993 em Belém do Pará, formado em Sistemas de Informação pela Universidade Federal do Pará (UFPA) com habilidade que promovem a experiência de usuário (UX) dos seus projetos, bem como o Marketing Digital. Sócio da Agência Digital Castle Dev."
+description: "André Defrémont, nascido dia 15 de março de 1993 em Belém do Pará, formado em Sistemas de Informação pela Universidade Federal do Pará (UFPA) com habilidade que promovem a experiência de usuário (UX) dos seus projetos, bem como o Marketing Digital. Sócio da Agência Digital Castle Dev."
 collections:
   posts:
     title: Posts
@@ -35,7 +35,7 @@ navbar-links:
 google_site_verification: googlec51afa1e1c8552aa
 avatar: "/img/avatar-icon.png"
 author:
-  name: Andre Defremont
+  name: André Defrémont
   email: andre.def93@gmail.com
   facebook: andre.defremont
   github: Defremont
