@@ -1,4 +1,5 @@
 ---
+image: https://bitcoin.org/img/icons/opengraph.png
 layout: post
 title: Como gerar uma renda passiva emprestando seus Bitcoins na Poloniex
 date: 09/05/2017
