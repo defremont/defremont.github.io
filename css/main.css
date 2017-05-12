@@ -133,6 +133,9 @@ img {
 #select:focus{
     color: #EAEAEA;
 }
+#select{
+    background: #222;
+}
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
