@@ -1,6 +1,6 @@
 ---
 published: true
-image: 'https://bitcoin.org/img/icons/opengraph.png'
+image: 'https://uxchecklist.github.io/img/icons128/Blog.png'
 layout: post
 date: 13/05/2017
 tags:
