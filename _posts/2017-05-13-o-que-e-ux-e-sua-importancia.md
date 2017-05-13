@@ -1,6 +1,6 @@
 ---
 published: true
-image: 'http://www.websoftechs.com/images/UserExperienceDesig-Icon.png'
+image: 'https://bitcoin.org/img/icons/opengraph.png'
 layout: post
 date: 13/05/2017
 tags:
