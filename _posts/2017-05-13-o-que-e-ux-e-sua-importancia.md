@@ -43,6 +43,8 @@ Seu conteúdo do site envolve essencialmente **duas** coisas. Primeiro é **voz*
 
 O conteúdo também envolve **o que você diz**. Isso pode parecer fácil, mas é uma forma de arte. As pessoas têm intervalos de atenção cada vez menores e mais e mais opções. Com isso em mente, você precisa envolver as pessoas rapidamente e obter as informações de que necessitam **sem hesitação**. Isso é mais do que apenas texto de parágrafo também. Ele envolve manchetes intuitivas, botões, ícones e até mesmo o material escondido no código.
 
+![O que é UX]({{site.baseurl}}/img/uxoquee.png)
+
 ## Ele ajuda você a economizar dinheiro.
 
 Todo esse **planejamento** não é a toa. Se bem feito, pode ter um impacto duradouro em seu site. Fazer escolhas inteligentes e optar por designs iterativo, você aprende com suas decisões e o desempenho do site, e faz melhorias contínuas, em vez de se concentrar em um redesenho **caro** após o outro.
