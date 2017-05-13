@@ -15,16 +15,16 @@ bigimg:
 show-share: true
 show-subscribe: true
 ---
-> UX é um dos aspectos mais importantes de um projeto, mas muitas vezes é visto como o menos. Design visual rouba a maior parte do amor, e é compreensível porquê. O design visual é o rosto real da sua marca. É o que as pessoas vêem e isso influencia diretamente a forma como os clientes e clientes pensam em sua empresa. No entanto, você não pode ter um design visual sem um plano. É aqui que entra o UX.
+> User Experience (UX) é um dos aspectos mais importantes de um projeto, mas nem sempre é visto assim. Design visual rouba a maior parte da atenção do usuário. O design visual é o rosto da sua marca. É o que as pessoas vêem e isso influencia diretamente na forma como os clientes pensam sobre a sua empresa. No entanto, você não pode ter um design visual sem um **plano**. É aqui que entra o UX.
 
 #O que é UX Design?
-Experiência do usuário (UX) Design faz parte do processo de design. No entanto, UX está mais focado na experiência geral do que apenas a aparência do site. UX envolve a concepção e planejamento de uma experiência e criação de um fluxo de trabalho para os usuários de um site ou aplicativo (ou qualquer peça de tecnologia realmente).
+Design de Experiência do usuário (UX Design) faz parte do processo de design. No entanto, UX está mais focado na experiência geral do que apenas a aparência do site. UX envolve a **concepção** e **planejamento** de uma experiência e criação de um **fluxo** de trabalho para os usuários de um site ou aplicativo (ou qualquer tecnologia).
 
-UX é o esqueleto do seu corpo. UX é a razão pela qual você não pode apenas fazer um site. Você precisa fazer uma tonelada de pesquisa e planejamento para descobrir o que você precisa, onde as coisas devem ir, eo que deve dizer. Este planejamento é importante por uma série de razões.
+UX é o esqueleto do seu corpo. UX é a razão pela qual você não pode apenas fazer um site. Você precisa fazer muita pesquisa e planejamento para descobrir o que você precisa, onde as coisas devem ir e o que deve dizer. Este planejamento é importante por uma série de razões.
 
 ##Ele ajuda você a descobrir seus objetivos.
 
-Uma grande parte do UX é a descoberta. Isso envolve entrevistar as principais partes interessadas para aprender sobre o projeto em questão. Ao entrevistar os chefes de vendas, marketing, Creative, CEOs, CTOs, CFOs, etc, você vai aprender o máximo que puder sobre todos os aspectos da empresa. A parte mais importante disso é obter essas diferentes perspectivas. É o trabalho de um designer de UX para observar este feedback vários e planejar de acordo. Muitas vezes, essas diferentes áreas têm objetivos diferentes, embora eles também podem se sobrepor. Esses objetivos então diretamente jogar na estrutura do site, conteúdo e público.
+Uma grande parte do UX é a **descoberta**. Isso envolve entrevistar as principais partes interessadas para aprender sobre o projeto em questão. Ao entrevistar os chefes de vendas, marketing, CEOs, CTOs, CFOs, etc, você vai aprender o máximo que puder sobre **todos os aspectos** da empresa. A parte mais importante disso é obter essas diferentes perspectivas. É o trabalho de um designer de UX observar estes feedbacks e planejar de acordo com o observado. Muitas vezes, essas diferentes áreas têm objetivos diferentes, embora que possam se sobrepor. Esses objetivos influenciam diretamente na **estrutura do site**, **conteúdo** e **público**.
 
 ##Ele ajuda você a descobrir o seu público.
 
