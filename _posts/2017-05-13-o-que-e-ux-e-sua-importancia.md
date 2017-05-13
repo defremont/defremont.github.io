@@ -10,15 +10,18 @@ tags:
   - redesign
 share-img: 'http://impatientdesigner.com/images/what-exactly-is-ux-design-01.png'
 bigimg:
-  - 'http://impatientdesigner.com/images/what-exactly-is-ux-design-01.png': Poloniex
+  - /img/uxoquee.png: O que é UX
 show-share: true
 show-subscribe: true
 title: O que é UX e qual a sua importância?
 ---
 > User Experience (UX) é um dos aspectos mais importantes de um projeto, mas nem sempre é visto assim. Design visual rouba a maior parte da atenção do usuário. O design visual é o rosto da sua marca. É o que as pessoas vêem e isso influencia diretamente na forma como os clientes pensam sobre a sua empresa. No entanto, você não pode ter um design visual sem um **plano**. É aqui que entra o UX.
 
+
 # O que é UX Design?
 Design de Experiência do usuário (UX Design) faz parte do processo de design. No entanto, UX está mais focado na experiência geral do que apenas a aparência do site. UX envolve a **concepção** e **planejamento** de uma experiência e criação de um **fluxo** de trabalho para os usuários de um site ou aplicativo (ou qualquer tecnologia).
+
+![O que é UX]({{site.baseurl}}/img/uxoquee.png)
 
 UX é o esqueleto do seu corpo. UX é a razão pela qual você não pode apenas fazer um site. Você precisa fazer muita pesquisa e planejamento para descobrir o que você precisa, onde as coisas devem ir e o que deve dizer. Este planejamento é importante por uma série de razões.
 
