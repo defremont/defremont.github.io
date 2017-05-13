@@ -15,7 +15,7 @@ show-share: true
 show-subscribe: true
 title: O que é UX e qual a sua importância?
 ---
-> User Experience (UX) é um dos aspectos mais importantes de um projeto, mas nem sempre é visto assim. Design visual rouba a maior parte da atenção do usuário. O design visual é o rosto da sua marca. É o que as pessoas vêem e isso influencia diretamente na forma como os clientes pensam sobre a sua empresa. No entanto, você não pode ter um design visual sem um **plano**. É aqui que entra o UX.
+> User Experience (UX) é um dos aspectos mais importantes de um projeto, mas nem sempre é visto assim. Design visual rouba a maior parte da atenção do usuário. O design visual é o rosto da sua marca. É o que as pessoas vêem e isso influencia diretamente na forma como os clientes pensam sobre você ou sua empresa. No entanto, você não pode ter um design visual sem um **plano**. É aqui que entra o UX.
 
 
 # O que é UX Design?
@@ -39,9 +39,9 @@ Conhecer seus objetivos e sua audiência permitirá que você externalize exatam
 
 Sabendo o que as pessoas estão procurando, você pode criar **conteúdo envolvente** e **relevante**. Você não pode simplesmente usar um design de aparência decente. A verdadeira razão que as pessoas entram em sites (bem mais sites de negócios de qualquer maneira) é porque eles estão procurando algum tipo de **informação**. É por isso que o conteúdo é tão importante. Se o seu público não conseguir algo **útil** em seu site, eles definitivamente encontrão em outro lugar.
 
-Seu conteúdo do site envolve essencialmente duas coisas. Primeiro é voz e tom. Isto é essencialmente como você fala com as pessoas. Você é divertido e brincalhão, inteligente e informativo, wordy ou direto ao ponto? Isso se relaciona diretamente com a marca, e como as pessoas vêem sua empresa.
+Seu conteúdo do site envolve essencialmente **duas** coisas. Primeiro é **voz** e **tom**. Isto é essencialmente como você fala com as pessoas. Você é divertido e brincalhão, inteligente e informativo, ou direto ao ponto? Isso se relaciona diretamente com a marca, e como as pessoas vêem você ou sua empresa.
 
-O conteúdo também envolve o QUE você diz. Isso pode parecer fácil, mas é um pouco de uma forma de arte. As pessoas têm intervalos de atenção cada vez menores e mais e mais opções. Com isso em mente, você precisa envolver as pessoas rapidamente e obter as informações de que necessitam sem hesitação. Isso é mais do que apenas texto de parágrafo também. Ele envolve manchetes intuitivas, botões, ícones e até mesmo dados meta (o material escondido no código).
+O conteúdo também envolve **o que você diz**. Isso pode parecer fácil, mas é um pouco de uma forma de arte. As pessoas têm intervalos de atenção cada vez menores e mais e mais opções. Com isso em mente, você precisa envolver as pessoas rapidamente e obter as informações de que necessitam sem hesitação. Isso é mais do que apenas texto de parágrafo também. Ele envolve manchetes intuitivas, botões, ícones e até mesmo dados meta (o material escondido no código).
 
 ## Ele ajuda você a economizar dinheiro.
 
