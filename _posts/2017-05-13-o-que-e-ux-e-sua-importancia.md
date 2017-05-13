@@ -41,7 +41,7 @@ Sabendo o que as pessoas estão procurando, você pode criar **conteúdo envolve
 
 Seu conteúdo do site envolve essencialmente **duas** coisas. Primeiro é **voz** e **tom**. Isto é essencialmente como você fala com as pessoas. Você é divertido e brincalhão, inteligente e informativo, ou direto ao ponto? Isso se relaciona diretamente com a marca, e como as pessoas vêem você ou sua empresa.
 
-O conteúdo também envolve **o que você diz**. Isso pode parecer fácil, mas é um pouco de uma forma de arte. As pessoas têm intervalos de atenção cada vez menores e mais e mais opções. Com isso em mente, você precisa envolver as pessoas rapidamente e obter as informações de que necessitam sem hesitação. Isso é mais do que apenas texto de parágrafo também. Ele envolve manchetes intuitivas, botões, ícones e até mesmo dados meta (o material escondido no código).
+O conteúdo também envolve **o que você diz**. Isso pode parecer fácil, mas é uma forma de arte. As pessoas têm intervalos de atenção cada vez menores e mais e mais opções. Com isso em mente, você precisa envolver as pessoas rapidamente e obter as informações de que necessitam **sem hesitação**. Isso é mais do que apenas texto de parágrafo também. Ele envolve manchetes intuitivas, botões, ícones e até mesmo o material escondido no código.
 
 ## Ele ajuda você a economizar dinheiro.
 
