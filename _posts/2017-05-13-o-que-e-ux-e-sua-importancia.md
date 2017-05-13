@@ -23,7 +23,7 @@ Design de Experiência do usuário (UX Design) faz parte do processo de design. 
 
 ![O que é UX]({{site.baseurl}}/img/uxoquee.png)
 
-UX é o esqueleto do seu corpo. UX é a razão pela qual você não pode apenas fazer um site. Você precisa fazer muita pesquisa e planejamento para descobrir o que você precisa, onde as coisas devem ir e o que deve dizer. Este planejamento é importante por uma série de razões.
+UX é o esqueleto do seu corpo. UX é a razão pela qual você não pode apenas fazer um site. Você precisa fazer muita **pesquisa** e **planejamento** para descobrir o que você precisa, onde as coisas devem ir e o que deve dizer. Este planejamento é importante por uma série de razões.
 
 ## Ele ajuda você a descobrir seus objetivos.
 
@@ -31,13 +31,13 @@ Uma grande parte do UX é a **descoberta**. Isso envolve entrevistar as principa
 
 ## Ele ajuda você a descobrir o seu público.
 
-Depois de descobrir seus objetivos, você pode se concentrar em seu público. A melhor maneira de fazer isso é pesquisar sua base de clientes e criar personas. Personas são personificações fictícias das pessoas reais que usam seu site. Um site pode ter várias personas, e cada personagem pode (e deve) ter diferentes origens, personalidades, necessidades e objetivos finais. Estes são úteis porque permite segmentar o público e descobrir o que você precisa fazer para fornecer a melhor experiência possível que lhes permita cumprir seus objetivos, se envolver com o site e, eventualmente, converter em uma venda ou levar . O verdadeiro sucesso do site vem quando você descobrir como fazer os usuários e interessados ​​felizes.
+Depois de descobrir seus objetivos, você pode se concentrar em seu **público**. A melhor maneira de fazer isso é pesquisar sua base de clientes e criar **personas**. Personas são personificações fictícias de pessoas reais que usam seu site. Um site pode ter várias personas, e cada personagem pode (e deve) ter diferentes origens, personalidades, necessidades e objetivos finais. Estes são úteis porque permite segmentar o público e descobrir o que você precisa fazer para fornecer a melhor experiência possível que lhes permita cumprir seus objetivos, se envolver com o site e, eventualmente, converter em uma venda. O verdadeiro sucesso do site vem quando você descobrir como fazer os **usuários** e **visitantes**, **felizes**.
 
 ## Ele ajuda você com a organização e criação de conteúdo.
 
-Conhecer seus objetivos e sua audiência permitirá que você figure para fora exatamente o que os povos estão procurando quando visitam seu local. Esta informação irá influenciar tanto o mapa do site ea estrutura da página.
+Conhecer seus objetivos e sua audiência permitirá que você externalize exatamente o que  estão procurando quando visitam seu local. Esta informação irá influenciar tanto o mapa do site e a estrutura da página.
 
-Ao saber o que as pessoas estão procurando, você pode criar conteúdo envolvente e relevante. Você não pode simplesmente bofetada um design de aparência decente e chamá-lo de um dia. A verdadeira razão que as pessoas vão para sites (bem mais sites de negócios de qualquer maneira) é porque eles estão procurando algum tipo de informação. É por isso que o conteúdo é tão importante. Se o seu público não conseguir algo útil fora de seu site, eles definitivamente encontrá-lo em outro lugar.
+Sabendo o que as pessoas estão procurando, você pode criar **conteúdo envolvente** e **relevante**. Você não pode simplesmente usar um design de aparência decente. A verdadeira razão que as pessoas entram em sites (bem mais sites de negócios de qualquer maneira) é porque eles estão procurando algum tipo de **informação**. É por isso que o conteúdo é tão importante. Se o seu público não conseguir algo **útil** em seu site, eles definitivamente encontrão em outro lugar.
 
 Seu conteúdo do site envolve essencialmente duas coisas. Primeiro é voz e tom. Isto é essencialmente como você fala com as pessoas. Você é divertido e brincalhão, inteligente e informativo, wordy ou direto ao ponto? Isso se relaciona diretamente com a marca, e como as pessoas vêem sua empresa.
 
