@@ -45,8 +45,8 @@ O conteúdo também envolve **o que você diz**. Isso pode parecer fácil, mas �
 
 ## Ele ajuda você a economizar dinheiro.
 
-Todo esse planejamento não é para nada. Se bem feito, seu site pode ter um impacto duradouro. Fazer escolhas inteligentes baseadas fora da pesquisa dará a seu local uma vida de prateleira mais longa do que se você apenas atirar algo junto. E se você optar por fazer design iterativo, você pode aprender com suas decisões e desempenho do site, e fazer melhorias contínuas, em vez de se concentrar em um redesenho caro após o outro.
+Todo esse **planejamento** não é a toa. Se bem feito, pode ter um impacto duradouro em seu site. Fazer escolhas inteligentes e optar por designs iterativo, você aprende com suas decisões e o desempenho do site, e faz melhorias contínuas, em vez de se concentrar em um redesenho **caro** após o outro.
 
 ## Ele ajuda você a ganhar dinheiro.
 
-Ao fazer a pesquisa e planejamento, você pode criar um site que funciona para seus clientes e organização. Se você conhece seus clientes, criar conteúdo envolvente e fornecer um bom serviço, tudo deve cair no lugar. Quando isso acontece, você receberá um grande retorno em todo o tempo e esforço que foi construindo seu site.
+Ao fazer as **pesquisas** e o **planejamento**, você pode criar um site que funciona para seus clientes e organização. Se você conhece seus clientes, cria conteúdo envolvente e fornece um bom serviço, tudo deve dar certo. Quando isso acontece, você recebe um grande retorno em todo o tempo e esforço que foi construindo seu site.
