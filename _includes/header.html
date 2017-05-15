@@ -19,7 +19,7 @@
 {% endif %}
 
 <header class="header-section {% if page.bigimg %}has-img{% endif %}">
-
+	<link rel="stylesheet" href="../css/font-awesome.min.css">
 {% if page.bigimg %}
 <div class="big-img intro-header">
   <div class="container">
@@ -36,7 +36,7 @@
 			{% endif %}
 		  {% endif %}
 		  {% if include.type == "post" %}
-
+            
 		  <span class="post-meta">Postado em {% assign m = page.date | date: "%-m" %}
 {{ page.date | date: "%-d" }}
 {% case m %}
@@ -76,7 +76,7 @@
 			<h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
 			{% endif %}
 		  {% endif %}
-
+		  
 		  {% if include.type == "post" %}
 		  <span class="post-meta">Postado em {% assign m = page.date | date: "%-m" %}
 {{ page.date | date: "%-d" }}

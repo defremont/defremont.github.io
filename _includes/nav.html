@@ -16,9 +16,6 @@
 
     <div class="collapse navbar-collapse" id="main-navbar">
       <ul class="nav navbar-nav navbar-right">
-        <li class="menu-item cart{% if page.url == '/cart/' %} active{% endif %}">
-        <a href="/cart/" id="cart-menu"><span class="fa fa-shopping-cart"></span> (<span class="simpleCart_quantity"></span>)</a>
-      </li>
       {% for link in site.navbar-links %}
         {% if link[1].first %}
           <li class="navlinks-container">
@@ -57,5 +54,6 @@
 	  </div>
 	</div>
 	{% endif %}
+
   </div>
 </nav>
