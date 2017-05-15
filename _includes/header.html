@@ -1,5 +1,4 @@
 <!-- TODO this file has become a mess, refactor it -->
-
 {% if page.bigimg or page.title %}
 
 {% if page.bigimg %}
@@ -29,14 +28,14 @@
           <h1>{% if page.title %}{{ page.title }}{% else %}<br/>{% endif %}</h1>
 		  {% if page.subtitle %}
 		    {% if include.type == "page" %}
-            <hr class="small">
+        <hr class="small">
             <span class="{{ include.type }}-subheading">{{ page.subtitle }}</span>
 			{% else %}
 			<h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
 			{% endif %}
 		  {% endif %}
 		  {% if include.type == "post" %}
-            
+
 		  <span class="post-meta">Postado em {% assign m = page.date | date: "%-m" %}
 {{ page.date | date: "%-d" }}
 {% case m %}
@@ -70,13 +69,13 @@
           <h1>{% if page.title %}{{ page.title }}{% else %}<br/>{% endif %}</h1>
 		  {% if page.subtitle %}
 		    {% if include.type == "page" %}
-            <hr class="small">
+        <hr class="small">
             <span class="{{ include.type }}-subheading">{{ page.subtitle }}</span>
 			{% else %}
 			<h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
 			{% endif %}
 		  {% endif %}
-		  
+
 		  {% if include.type == "post" %}
 		  <span class="post-meta">Postado em {% assign m = page.date | date: "%-m" %}
 {{ page.date | date: "%-d" }}

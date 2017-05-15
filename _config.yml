@@ -2,7 +2,7 @@
 title: Defremont
 timezone: "America/Belem"
 url: http://defremont.tk
-baseurl: 
+baseurl:
 description: "André Defrémont, de 1993, Belém do Pará, formado em Sistemas de Informação pela Universidade Federal do Pará (UFPA) com habilidades que promovem a experiência de usuário (UX) de projetos web, bem como o Marketing Digital. Sócio da Agência Digital Castle Dev."
 collections:
   posts:
@@ -10,10 +10,18 @@ collections:
     output: true
   uploads:
     title: Uploads
-    output: true    
+    output: true
+  products:
+    title: Products
+    output: true
 disqus: "defremont"
 google_analytics: "UA-26063629-2"
 fb_app_id: "1153473038113359"
+# Sass/SCSS settings
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
 defaults:
 - scope:
     path: ''
@@ -27,6 +35,11 @@ defaults:
   values:
     layout: page
     show-avatar: true
+- scope:
+    type: products
+  values:
+    layout: product
+    show-avatar: false
 navbar-links:
   Sobre/Contato: aboutme
   Exemplos de Projetos:
@@ -49,8 +62,8 @@ author:
   instagram: defremont
   youtube: yourlink
   spotify: yourname
-  telephone: "+55 091 981348438"  
- 
+  telephone: "+55 091 981348438"
+
 
 footer-links-active:
   rss: false
@@ -144,3 +157,10 @@ gems:
 - jekyll-admin
 - jekyll-sitemap
 - jekyll-seo-tag
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development

@@ -1,0 +1,65 @@
+
+blockquote {
+  margin: 2em 0;
+  padding-left: 2em;
+  border-left: 8px solid $secondary-color;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 200;
+
+  p:last-of-type {
+    margin: 0;
+  }
+
+}
+
+cite {
+  font-style: normal;
+}
+
+
+/* Links
+-------------------------------------------------- */
+
+/* Utilities
+-------------------------------------------------- */
+
+.text-center {
+  text-align: center;
+}
+
+.right {
+  float: right;
+}
+
+.left {
+  float: left;
+}
+
+.display-none {
+  display: none;
+}
+
+.margin-bottom-0 {
+  margin-bottom: 0;
+}
+
+.mobile-hide {
+  display: none;
+  position: absolute;
+  visibility: hidden;
+  clip: rect(0, 0, 0, 0);
+  @media (min-width: 800px) {
+    display: inherit;
+    position: relative;
+    visibility: visible;
+  }
+}
+
+.mobile-show {
+  @media (min-width: 800px) {
+    position: absolute;
+    visibility: hidden;
+    clip: rect(0, 0, 0, 0);
+  }
+}

@@ -13,7 +13,7 @@
   {% endif %}
 <link rel="shortcut icon" type="image/png" href="/favicon.png">
   <meta name="author" content="{{ site.author.name }}" />
-  
+
   {% if page.meta-description %}
   <meta name="description" content="{{ page.meta-description }}">
   {% elsif page.subtitle %}
@@ -21,7 +21,7 @@
   {% else %}
   <meta name="description" content="{{ page.content | strip_html | xml_escape | truncatewords: 50 }}">
   {% endif %}
-  
+
   <meta name="keywords" content="andre, andré, defremont, defrémont, consultor, belém, marketing, digital, seo, bitcoin, projeto, web, pará, castle, dev, castledev">
 <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
@@ -59,7 +59,7 @@
 
   {% if page.googlefonts %}
     {% for font in page.googlefonts %}
-      <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}" rel="stylesheet"> 
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}" rel="stylesheet">
     {% endfor %}
   {% endif %}
 
@@ -100,7 +100,7 @@
   {% elsif site.avatar %}
   <meta property="og:image" content="{{ site.url }}{{ site.avatar }}" />
   {% endif %}
-  
+
 
   <!-- Twitter summary cards -->
   <meta name="twitter:card" content="summary" />
@@ -131,4 +131,11 @@
 {% if jekyll.environment == 'production' %}
     {% include analytics.html %}
     {% endif %}
+	<meta http-equiv="x-dns-prefetch-control" content="on">
+  <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Martel:200,700,900|Open+Sans:400,700|Roboto+Condensed:700">
+  <link rel="stylesheet" href="{{ site.url }}/css/main.css">
+
 </head>
