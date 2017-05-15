@@ -134,3 +134,15 @@ $(document).ready(function(){
 	
 });
 </script>
+
+    <script src="{{ site.url }}/js/simpleCart.js"></script>
+    <script async src="{{ site.url }}/js/responsive-menu.js"></script>
+
+    {% if page.url contains '/products/' %}
+      <script async src="{{ site.url }}/js/style-picker.js"></script>
+      <script async src="{{ site.url }}/js/add-to-cart.js"></script>
+    {% endif %}
+
+    {% if page.url == '/checkout/' %}
+      <script async src="{{ site.url }}/js/checkout.js"></script>
+    {% endif %}
