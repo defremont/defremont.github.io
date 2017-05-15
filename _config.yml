@@ -79,7 +79,7 @@ title-separator: "-"
 markdown: kramdown
 highlighter: rouge
 permalink: "/:year-:month-:day-:title/"
-paginate: 3
+paginate: 5
 markdown: kramdown
 link-tags: false
 exclude:
