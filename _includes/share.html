@@ -1,16 +1,16 @@
 {% if page.show-share or page.show-subscribe %}
   <div class="share-section">
     <h2 class="share-title">Gostou?</h2>
-    
+
     {% if page.show-share %}
       <div class="share-buttons">
         {% capture urlmessage %}{{ site.url }}/aboutme{% endcapture %}
-        
+
         {% capture urlfb %}https://www.facebook.com/dialog/feed?app_id={{ site.fb_app_id }}&link={{ site.url }}{{ page.url }}&name={{ page.title }}&caption={{ site.url-pretty }}&redirect_uri={{ site.url }}{{ page.url }}?message=Obrigado por compartilhar!{% endcapture %}
         {% if page.share-img %}
           {% capture urlfb %}{{ urlfb }}&picture={{ page.share-img }}{% endcapture %}
         {% endif %}
-    
+
         {% capture urltwitter %}https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&via=AndreDefremont{% endcapture %}
         {% if page.tags contains 'rstats' %}
           {% assign maxlength = 94 %}
@@ -22,7 +22,7 @@
         <a id="gold" target="_blank" href="https://pag.ae/bfkhQtM" data-ga-event=1 data-ga-category="share" data-ga-action="donate" data-ga-label="{{ page.url }}">
           Doar (PagSeguro)
         </a>
-          
+
         <a target="_blank" href="{{ urlmessage }}" data-ga-event=1 data-ga-category="share" data-ga-action="message" data-ga-label="{{ page.url }}">
           Entrar em contato
         </a>
@@ -31,8 +31,8 @@
           Compartilhar no Facebook
         </a>
         -->
-        
-          
+
+
         <a id="gold" target="_blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=58XHZE47V77N2" data-ga-event=1 data-ga-category="share" data-ga-action="donate" data-ga-label="{{ page.url }}">
           Doar (PayPal)
         </a>
@@ -41,7 +41,7 @@
         </a>-->
       </div>
     {% endif %}
-    
+
     {% if page.show-subscribe %}
       <!-- MailChimp Signup Form -->
       <div id="mailchimp-subscribe-section-2">
@@ -65,7 +65,7 @@
           </form>
         </div>
       </div>
-    {% endif %} 
+    {% endif %}
 
   </div>
 {% endif %}

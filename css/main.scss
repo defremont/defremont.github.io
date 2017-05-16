@@ -1,6 +1,12 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+
+.imgfull {
+  padding: 0px 0;
+  background: url({{ site.baseurl }}/img/defremont.jpg) 100% 100%;
+  border-top: 1px #EAEAEA solid;
+}
 @import url("pygment_highlights.css");
 /* floating box style */
 .floating-form {
@@ -878,11 +884,8 @@ td.gutter {
 
 .share-section {
   padding: 30px 15px 35px;
-  margin-top: 40px;
-  margin-bottom: 40px;
-  box-shadow: 0 0 10px #e7e7e7 inset;
-  background: #fcfcfc;
   text-align: center;
+  color: #fff;
 }
 
 .share-section .share-title {
@@ -938,8 +941,8 @@ td.gutter {
 
 @media only screen and (min-width: 768px) {
   .share-section {
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-top: 0px;
+    margin-bottom: 0px;
   }
   .share-section .share-title {
     font-size: 45px;
