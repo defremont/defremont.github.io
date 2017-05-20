@@ -1,11 +1,14 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+.hover_img a { position:relative; }
+.hover_img a span { position:absolute; display:none; z-index:99; }
+.hover_img a:hover span { display:block; }
 
 .imgfull {
   padding: 0px 0;
   background: url({{ site.baseurl }}/img/defremont.jpg) 100% 100%;
-  border-top: 1px #EAEAEA solid;
+  border-top: 0px #EAEAEA solid;
 }
 @import url("pygment_highlights.css");
 /* floating box style */
