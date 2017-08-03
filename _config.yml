@@ -1,7 +1,7 @@
 ---
 title: Defremont
 timezone: "America/Belem"
-url: http://defremont.tk
+url: http://defremont.me
 baseurl:
 description: "André Defrémont, de 1993, Belém do Pará, formado em Sistemas de Informação pela Universidade Federal do Pará (UFPA) com habilidades que promovem a experiência de usuário (UX) de projetos web, bem como o Marketing Digital. Sócio da Agência Digital Castle Dev."
 collections:
@@ -43,8 +43,8 @@ defaults:
 navbar-links:
   Sobre/Contato: aboutme
   Exemplos de Projetos:
-  - Loja Virtual: http://defremont.tk/artenbijou/
-  - Castle Dev: http://castledev.tk/
+  - Loja Virtual: http://defremont.me/artenbijou/
+  - Castle Dev: http://castledev.me/
 google_site_verification: googlec51afa1e1c8552aa
 avatar: "/img/avatar-icon.png"
 author:
@@ -86,7 +86,7 @@ share-links-active:
   facebook: true
   google: true
   linkedin: false
-url-pretty: defremont.tk
+url-pretty: defremont.me
 excerpt_length: 50
 title-separator: "-"
 markdown: kramdown
