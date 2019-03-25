@@ -1,7 +1,7 @@
 ---
-title: "Precisa de ajuda com o Website?"
+title: "Need help with web projects?"
 layout: page
-subtitle: Consultor de Projetos Web e Marketing Digital
+subtitle: Fullstack Developer and Digital Marketing Consultant
 bigimg:
 - "/img/path3.jpg": Websites
 - "/img/path.jpg": Marketing Digital
@@ -37,18 +37,18 @@ fullimg: true
       {% assign m = post.date | date: "%-m" %}
 {{ post.date | date: "%-d" }}
 {% case m %}
-  {% when '1' %}Janeiro
-  {% when '2' %}Fevereiro
-  {% when '3' %}Março
-  {% when '4' %}Abril
-  {% when '5' %}Maio
-  {% when '6' %}Junho
-  {% when '7' %}Julho
-  {% when '8' %}Agosto
-  {% when '9' %}Setembro
-  {% when '10' %}Outubro
-  {% when '11' %}Novembro
-  {% when '12' %}Dezembro
+{% when '1'%} January
+   {% when '2'%} February
+   {% when '3'%} March
+   {% when '4'%} April
+   {% when '5'%} May
+   {% when '6'%} June
+   {% when '7'%} July
+   {% when '8'%} August
+   {% when '9'%} September
+   {% when '10'%} October
+   {% when '11'%} November
+   {% when '12'%} December
 {% endcase %}
 {{ post.date | date: "%Y" }}
     </p>
@@ -91,12 +91,12 @@ fullimg: true
 <ul class="pager main-pager">
   {% if paginator.previous_page %}
   <li class="previous">
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Mais novos</a>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newest</a>
   </li>
   {% endif %}
   {% if paginator.next_page %}
   <li class="next">
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Mais Antigos&rarr;</a>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Oldest&rarr;</a>
   </li>
   {% endif %}
 </ul>

@@ -3,7 +3,7 @@ title: Defremont
 timezone: "America/Belem"
 url: http://defremont.github.io
 baseurl:
-description: "André Defrémont, de 1993, Belém do Pará, formado em Sistemas de Informação pela Universidade Federal do Pará (UFPA) com habilidades que promovem a experiência de usuário (UX) de projetos web, bem como o Marketing Digital. Sócio da Agência Digital Castle Dev."
+description: "André Defrémont, 1993, Belém do Pará, Bachelor of Information Systems from the Federal University of Pará (UFPA) with skills that promote the user experience (UX / UI) of web projects through the best tools and always seeking the value proposition design."
 collections:
   posts:
     title: Posts
@@ -41,10 +41,9 @@ defaults:
     layout: product
     show-avatar: false
 navbar-links:
-  Sobre/Contato: aboutme
-  Exemplos de Projetos:
-  - Loja Virtual: http://defremont.github.io/artenbijou/
-  - Castle Dev: http://castledev.me/
+  About/Contact: aboutme
+  Portfolio:
+  - Jekyll Shop: http://defremont.github.io/artenbijou/
 google_site_verification: googlec51afa1e1c8552aa
 avatar: "/img/avatar-icon.png"
 author:
