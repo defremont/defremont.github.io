@@ -55,7 +55,7 @@ author:
   twitter: andredefremont
   reddit: defremont
   google-plus: "+andredefremont"
-  linkedin: yourname
+  linkedin: andredefremont
   xing: yourname
   stackoverflow: yourlink
   snapchat: defremont
@@ -70,10 +70,10 @@ footer-links-active:
   facebook: true
   email: true
   twitter: true
-  google-plus: true
+  google-plus: false
   github: true
   reddit: true
-  linkedin: false
+  linkedin: true
   xing: false
   stackoverflow: false
   snapchat: true
@@ -85,7 +85,7 @@ share-links-active:
   twitter: true
   facebook: true
   google: true
-  linkedin: false
+  linkedin: true
 url-pretty: defremont.github.io
 excerpt_length: 50
 title-separator: "-"
