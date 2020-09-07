@@ -43,7 +43,7 @@ defaults:
 navbar-links:
   About/Contact: aboutme
   Portfolio:
-  - Jekyll Shop: http://defremont.github.io/artenbijou/
+  - Vue PWA: https://avoidline.amachains.io/
   - Wordpress Shop: https://mercadoparaense.com.br/
   - Simple Showcase: http://defremont.github.io/amazonidarte/
 avatar: "/img/avatar-icon.png"
