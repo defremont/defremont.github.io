@@ -44,7 +44,7 @@ navbar-links:
   About/Contact: aboutme
   Portfolio:
   - Vue PWA: https://avoidline.amachains.io/
-  - Blockchain App (DASP): http://defremont.github.io/files/DASP.pdf/
+  - Blockchain App (DASP): http://defremont.github.io/files/DASP.pdf
   - Vue App tool: https://romantic-dijkstra-654317.netlify.app/
 avatar: "/img/avatar-icon.png"
 author:
