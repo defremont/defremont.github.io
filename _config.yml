@@ -44,8 +44,7 @@ navbar-links:
   About/Contact: aboutme
   Portfolio:
   - Vue PWA: https://avoidline.amachains.io/
-  - Blockchain App (DASP): https://media-exp1.licdn.com/dms/document/C4E2DAQHyoWa8lEOhxg/profile-treasury-document-pdf-analyzed/0?e=1599584400&v=beta&t=uR1dX6a2hCAslbpzRR2mqk3foWgfYUrAEYtz1u-W4Bk/
-  - Vue App tool: https://romantic-dijkstra-654317.netlify.app/
+  - Blockchain App (DASP): http://defremont.github.io/files/DASP.pdf/
 avatar: "/img/avatar-icon.png"
 author:
   name: André Defrémont
