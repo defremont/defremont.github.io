@@ -76,7 +76,7 @@ footer-links-active:
   linkedin: true
   xing: false
   stackoverflow: false
-  snapchat: true
+  snapchat: false
   instagram: true
   youtube: false
   spotify: false
