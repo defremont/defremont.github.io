@@ -52,6 +52,7 @@ author:
   email: andre.def93@gmail.com
   facebook: andre.defremont
   github: Defremont
+  gitlab: Defremont
   twitter: andredefremont
   reddit: defremont
   google-plus: "+andredefremont"
@@ -72,6 +73,7 @@ footer-links-active:
   twitter: true
   google-plus: false
   github: true
+  gitlab: true
   reddit: true
   linkedin: true
   whatsapp: true
