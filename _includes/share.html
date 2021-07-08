@@ -1,7 +1,7 @@
 {% if page.show-share or page.show-subscribe %}
 <div>
   <div class="share-section">
-    <h2 class="share-title">Gostou do meu Conteúdo?</h2>
+    <h2 class="share-title">Did you like the content?</h2>
 
     {% if page.show-share %}
       <div class="share-buttons">
@@ -21,11 +21,11 @@
         {% endif %}
         {% capture urltwitter %}{{ urltwitter }}&text={{ page.title | truncate: maxlength }}{% endcapture %}
         <a id="gold" target="_blank" href="https://pag.ae/bfkhQtM" data-ga-event=1 data-ga-category="share" data-ga-action="donate" data-ga-label="{{ page.url }}">
-          Doar (PagSeguro)
+          Buy Me a Coffee (PagSeguro)
         </a>
 
         <a target="_blank" href="{{ urlmessage }}" data-ga-event=1 data-ga-category="share" data-ga-action="message" data-ga-label="{{ page.url }}">
-          Entrar em contato
+          Contact
         </a>
         <!--
         <a href="{{ urlfb }}" data-ga-event=1 data-ga-category="share" data-ga-action="facebook" data-ga-label="{{ page.url }}">
@@ -35,7 +35,7 @@
 
 
         <a id="gold" target="_blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=58XHZE47V77N2" data-ga-event=1 data-ga-category="share" data-ga-action="donate" data-ga-label="{{ page.url }}">
-          Doar (PayPal)
+          Buy Me a Coffee (PayPal)
         </a>
          <!--<a href="{{ urltwitter }}" data-ga-event=1 data-ga-category="share" data-ga-action="twitter" data-ga-label="{{ page.url }}">
           Twitar
@@ -49,7 +49,7 @@
         <div id="mc_embed_signup-2">
           <form action="//defremont.us15.list-manage.com/subscribe/post?u=8827eade9509ec19e130a08cc&amp;id=6673e6dcd7" method="post" id="mc-embedded-subscribe-form-2" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
             <div id="mc_embed_signup_scroll-2">
-      	      <label for="mce-EMAIL-2">Se inscreva para receber mais notícias</label>
+      	      <label for="mce-EMAIL-2">Subscribe for more news</label>
               <div class="container">
                 <div class="row">
                   <div class="col-xs-8">
@@ -61,7 +61,7 @@
                 </div>
               </div>
               <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_a579a88c8f09f9b8502b9d0c3_c180f5773c" tabindex="-1" value=""></div>
-              <input type="submit" value="Inscrever-se" name="subscribe" id="mc-embedded-subscribe-2" class="button">
+              <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe-2" class="button">
             </div>
           </form>
         </div>
@@ -69,9 +69,10 @@
     {% endif %}
       <br>
 <div class="hover_img">
-     <a target="_blank">Pay a coffee (Bitcoin): 3AWjtLychqAHRo2LtfgUnEM1D3THLTCZNE
-    <span><img src="https://qrcode.kaywa.com/img.php?s=7&d=3AWjtLychqAHRo2LtfgUnEM1D3THLTCZNE" alt="image" height="100" /></span></a>
-</div>
+     <a target="_blank">Buy Me a Coffee (Bitcoin): 3AWjtLychqAHRo2LtfgUnEM1D3THLTCZNE
+      <br>
+      <br>
+        <img src="https://qrcode.kaywa.com/img.php?s=7&d=3AWjtLychqAHRo2LtfgUnEM1D3THLTCZNE" alt="image" height="100" /></div>
   </div>
 </div>
 {% endif %}
