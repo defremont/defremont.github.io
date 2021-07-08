@@ -1,0 +1,35 @@
+---
+label: Default Post
+hide_body: false
+fields:
+- type: file
+  name: image
+  label: image
+- type: text
+  name: layout
+  label: layout
+- type: datetime
+  name: date
+  label: date
+- type: list
+  name: tags
+  label: tags
+- type: file
+  name: share-img
+  label: share-img
+- type: field_group_list
+  name: bigimg
+  label: bigimg
+  fields:
+  - type: text
+    name: "/img/uxoquee.png"
+    label: "/img/uxoquee.png"
+- type: boolean
+  name: show-share
+  label: show-share
+- type: boolean
+  name: show-subscribe
+  label: show-subscribe
+- type: text
+  name: title
+  label: title
