@@ -43,9 +43,8 @@ defaults:
 navbar-links:
   About/Contact: aboutme
   Portfolio:
-  - APP: https://app.amachains.io/
-  - MARKETPLACE: https://marketplace.amachains.io/
-  - TRACK: https://track.amachains.io/1620249060120
+  - AMACHAINS CARBON: https://carbon.amachains.io/
+  - AMACHAINS AUTH: https://auth.amachains.io/
   - DASP: http://defremont.github.io/files/DASP.pdf
   - DEVFINDER: https://romantic-dijkstra-654317.netlify.app/
 avatar: "/img/avatar-icon.png"
@@ -59,13 +58,11 @@ author:
   reddit: defremont
   google-plus: "+andredefremont"
   linkedin: andredefremont
-  whatsapp: "+55091981348438"
   stackoverflow: yourlink
   snapchat: defremont
   instagram: defremont
   youtube: yourlink
   spotify: yourname
-  telephone: "+55 091 981348438"
 
 
 footer-links-active:
